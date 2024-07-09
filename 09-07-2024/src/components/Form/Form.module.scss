@@ -1,0 +1,20 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .container {
+        display: flex;
+        gap: 20px
+    }
+
+    .buttons {
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+
+        button {
+            padding: 10px 20px;
+        }
+    }
+}
