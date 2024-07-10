@@ -1,0 +1,17 @@
+.inputCard {
+    padding: 10px 20px;
+    border: 2px solid #ffffffb0;
+    background-color: #ffffff64;
+    border-radius: 20px;
+
+    p {
+        margin-bottom: 5px;
+    }
+
+    select {
+        border-radius: 10px;
+        padding: 10px 15px;
+        border: 1px solid #fff;
+        min-width: 250px;
+    }
+}
